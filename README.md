@@ -8,3 +8,8 @@
 2. **🚇 2호선 호선 게임**: 51개 역이 담긴 풀버전 DB를 바탕으로 진행되는 2호선 역 이름 대기
 3. **📜 사자성어 이어 말하기**: AI가 부르는 앞 두 글자를 듣고 3초 안에 나머지 두 글자 외치기
 4. **🍓 딸기 게임**: 1~8개까지 박자에 맞춰 "짝"과 "딸기"를 정확한 발음과 띄어쓰기로 외치는 리듬 게임
+
+<img width="826" height="513" alt="image" src="https://github.com/user-attachments/assets/9cfe1203-784d-4459-ae81-856b849d069f" />
+
+<img width="577" height="859" alt="image" src="https://github.com/user-attachments/assets/dd10bcc8-27ea-42b4-a122-f33e1b882bff" />
+
